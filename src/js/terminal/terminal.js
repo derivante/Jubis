@@ -82,10 +82,7 @@ export function processCommand(inputText) {
 
 		case "gustavo":
 			return userCommand + "\n" + Gustavo;
-
-		case "luna":
-			return userCommand + "\n" + daniel;
-		
+			
 		case "giovanna":
 			return userCommand + "\n" + Giovana;
 		

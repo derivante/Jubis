@@ -19,11 +19,11 @@ export const Julia = `
 
     Oi amiga, feliz seu dia! 
 
-   Sei que provavelmente já mandei um texto carinhoso de felicitações mas, mais uma vez venho aqui pra lembrar que eu te amo muito 
-   e te admiro, por quem você é. 
-   você foi a amizade mais improvável da minha vida, e a que mais deu certo. obrigada por tudo e por sempre estar aqui. 
+     Sei que provavelmente já mandei um texto carinhoso de felicitações mas, mais uma vez venho aqui pra lembrar que eu te amo muito 
+    e te admiro, por quem você é. 
+    você foi a amizade mais improvável da minha vida, e a que mais deu certo. obrigada por tudo e por sempre estar aqui. 
 
-   Que venham mais 50 anos para comemorarmos juntas. 
+    Que venham mais 50 anos para comemorarmos juntas. 
 
    eu subiria sob montanha e ficaria trancada em um caixão de ferro por você. 
 
@@ -121,9 +121,9 @@ export const Gustavo = `
     PARABÉNS BOBONA!!!
 
     Oie, primeiramente queria te desejar um feliz aniversário, te lembrar que você é extremamente especial pra mim, 
-e que eu fico muito feliz de ter você do meu lado, que você seja muito feliz, se adpte bem ao novo emprego, 
-e que comece a comer direito pelo amor de deus!! 
-É seu dia (e dos professores também, mas a gente releva), então aproveita, te amo bobona.
+    e que eu fico muito feliz de ter você do meu lado, que você seja muito feliz, se adpte bem ao novo emprego, 
+    e que comece a comer direito pelo amor de deus!! 
+    É seu dia (e dos professores também, mas a gente releva), então aproveita, te amo bobona.
     
 
     Assinado: Gustavo
@@ -159,10 +159,10 @@ export const Murilo = `
 
     Chero,
 
-    Muito obrigado por ser essa companhia maravilhosa que você tem sido nesses últimos 9 anos. 
-   Apesar da distância, saiba que você pode contar comigo pra absolutamente qualquer coisa e que você tem um lugar 
-   muito bem guardado no meu coração. 
-   Feliz aniversário! Amo você
+     Muito obrigado por ser essa companhia maravilhosa que você tem sido nesses últimos 9 anos. 
+    Apesar da distância, saiba que você pode contar comigo pra absolutamente qualquer coisa e que você tem um lugar 
+    muito bem guardado no meu coração. 
+    Feliz aniversário! Amo você
     
    Assinado: Murilo
                                                    
@@ -178,9 +178,9 @@ export const Felipe = `
     
     Felipe <Fe@li.pe.com>                                                                                13 de out. de 2025, 16:33 
 
-   feliz aniversário!
-   que o seu dia seja cheio de coisas boas, risadas sinceras e gente que te quer bem.
-   que venham muitos outros anos cheios de momentos incríveis
+     Feliz aniversário!
+    que o seu dia seja cheio de coisas boas, risadas sinceras e gente que te quer bem.
+    que venham muitos outros anos cheios de momentos incríveis
 
 
     Assinado: Felipe
@@ -196,8 +196,8 @@ export const Giovana = `
     
     Gi <Gio@Vanna.com>                                                                             03 de out. de 2025, 02:30 
 
-       Ju, tu é uma das pessoas mais incríveis que já conheci. É inspiradora, uma amiga excepcional, uma pessoa que leva luz por onde passa, 
-    e alguém que tá sempre pronta a oferecer o melhor que tem. Sua inteligência faz todos ao seu redor te admirarem, 
+       Ju, tu é uma das pessoas mais incríveis que já conheci. É inspiradora, uma amiga excepcional, uma pessoa que leva luz 
+    por onde passa, e alguém que tá sempre pronta a oferecer o melhor que tem. Sua inteligência faz todos ao seu redor te admirarem, 
     e a forma que você sempre consegue mudar um ambiente completamente para o melhor, é o que faz as pessoas quererem 
     estar o tempo todo próximos de ti. 
     Um textinho ainda é muito pouco para conseguir compactar todas as qualidades que você tem 
